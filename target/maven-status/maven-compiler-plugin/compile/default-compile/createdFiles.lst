@@ -1,0 +1,6 @@
+com/patavermelha/patavermelha/controller/OcorrenciaController.class
+com/patavermelha/patavermelha/entities/Clinica.class
+com/patavermelha/patavermelha/PatavermelhaApplication.class
+com/patavermelha/patavermelha/entities/Ocorrencia.class
+com/patavermelha/patavermelha/model/Resposta.class
+com/patavermelha/patavermelha/dto/NumeroDto.class
