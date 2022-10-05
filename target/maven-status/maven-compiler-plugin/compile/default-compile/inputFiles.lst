@@ -1,6 +1,9 @@
-/home/user/Documents/patavermelha/src/main/java/com/patavermelha/patavermelha/entities/Clinica.java
-/home/user/Documents/patavermelha/src/main/java/com/patavermelha/patavermelha/entities/Ocorrencia.java
-/home/user/Documents/patavermelha/src/main/java/com/patavermelha/patavermelha/PatavermelhaApplication.java
-/home/user/Documents/patavermelha/src/main/java/com/patavermelha/patavermelha/model/Resposta.java
-/home/user/Documents/patavermelha/src/main/java/com/patavermelha/patavermelha/controller/OcorrenciaController.java
-/home/user/Documents/patavermelha/src/main/java/com/patavermelha/patavermelha/dto/NumeroDto.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\PatavermelhaApplication.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\entities\Clinica.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\controller\OcorrenciaController.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\service\ClinicaService.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\controller\ClinicaController.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\repository\ClinicaRepository.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\repository\OcorrenciaRepository.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\service\OcorrenciaService.java
+C:\Users\anaal\Documents\patavermelha\src\main\java\com\patavermelha\patavermelha\entities\Ocorrencia.java
